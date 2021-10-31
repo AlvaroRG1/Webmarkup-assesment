@@ -1,0 +1,3 @@
+student name: Alvaro Martina
+student number: 690002
+student class: 1C 
